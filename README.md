@@ -1,4 +1,12 @@
-### Hi there 👋
+## 👨 About
+
+- São Paulo, SP - Brasil;
+- Software Engineer since 2017;
+- Currently working as a Principal Engineer for [UOL EdTech](uoledtech.com.br);
+
+## 🚀 Stacks
+
+In progress...
 
 <!--
 **arbexmb/arbexmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
