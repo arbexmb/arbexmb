@@ -2,7 +2,7 @@
 
 - São Paulo, SP - Brasil;
 - Software Engineer since 2017;
-- Currently working as a Principal Engineer for [UOL EdTech](uoledtech.com.br);
+- Currently working as a Tribe Tech Lead for [UOL EdTech](uoledtech.com.br);
 
 ## 🚀 Stacks
 
